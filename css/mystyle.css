@@ -233,3 +233,30 @@ section{
     text-decoration: none;
     box-shadow: 3px 3px 6px #a5effe;
 }
+
+.update {
+    background-color: rgba(255,255,255,0.8);
+    border-left: 5px solid #1ccaff;
+    padding: 10px 20px;
+    margin: 20px auto;
+}
+.newinfo {
+    background-color: #fff8c6;
+    border-left: 5px solid #ff6ac1;
+    padding: 10px 15px;
+    margin-top: 15px;
+    line-height: 1.7;
+}
+.topback:hover {
+    background-color: #1ccaff;
+    color: #fff;
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+.add {
+    background-color: #e8faff;
+    border-left: 4px solid #0099ff;
+    padding: 10px 15px;
+    margin-top: 15px;
+    line-height: 1.7;
+}
